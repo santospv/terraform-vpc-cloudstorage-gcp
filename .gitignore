@@ -1,0 +1,4 @@
+.terraform
+.terraform.lock.hcl
+serviceaccount.yaml
+pvs-devops-iac-ff885801cfd9.json
